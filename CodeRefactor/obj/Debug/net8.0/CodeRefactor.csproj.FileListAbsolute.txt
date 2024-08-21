@@ -1,0 +1,14 @@
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\bin\Debug\net8.0\CodeRefactor.exe
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\bin\Debug\net8.0\CodeRefactor.deps.json
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\bin\Debug\net8.0\CodeRefactor.runtimeconfig.json
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\bin\Debug\net8.0\CodeRefactor.dll
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\bin\Debug\net8.0\CodeRefactor.pdb
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\CodeRefactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\CodeRefactor.AssemblyInfoInputs.cache
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\CodeRefactor.AssemblyInfo.cs
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\CodeRefactor.csproj.CoreCompileInputs.cache
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\CodeRefactor.dll
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\refint\CodeRefactor.dll
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\CodeRefactor.pdb
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\CodeRefactor.genruntimeconfig.cache
+C:\Users\Boot Camp\Desktop\CodeSmell\CodeRefactor\obj\Debug\net8.0\ref\CodeRefactor.dll
