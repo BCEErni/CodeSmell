@@ -1,6 +1,6 @@
 using System.Dynamic;
 
-class Users{
+public class Users{
     public int Id {get; set;}
     public string? Name {get; set;}
     public string? Company{get; set;}
